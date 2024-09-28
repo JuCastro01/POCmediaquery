@@ -11,7 +11,7 @@ Disposição dos dispositivos - landscape e portrait
 
 Para executar os codigos com HTML, CSS e Javascript é necessário ter instalado um navegador como chrome, firefox ou opera para abrir os arquivos
 
-![image](https://github.com/user-attachments/assets/b4eb1191-4209-4bf1-b1f2-3ebbf3a01007)
+![image](https://github.com/user-attachments/assets/d5d98b96-fa96-4347-bd75-b07ef82fe875)
 
 
 ## 🛠️ Construído com:
